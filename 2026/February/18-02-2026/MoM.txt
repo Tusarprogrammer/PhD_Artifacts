@@ -11,5 +11,6 @@ AI in healthcare:
 1. Early detection of intestinal (colorectal) cancer is critical for preventing death  
 
 
-
 2. Automating and detecting the early stages of liver cirrhosis 
+
+3. Analyzing and detecting the original signal flow in paralyzed patients

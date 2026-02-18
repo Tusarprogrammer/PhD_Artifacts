@@ -12,4 +12,4 @@ AI in healthcare:
 
 
 
-2. 
+2. Automating and detecting the early stages of liver cirrhosis 

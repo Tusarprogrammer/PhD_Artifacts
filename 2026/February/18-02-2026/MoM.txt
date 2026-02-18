@@ -14,3 +14,5 @@ AI in healthcare:
 2. Automating and detecting the early stages of liver cirrhosis 
 
 3. Analyzing and detecting the original signal flow in paralyzed patients
+
+4. Analyzing and detecting high-energy nerve activity (epileptiform discharges) during epilepsy 

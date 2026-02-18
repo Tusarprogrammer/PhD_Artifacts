@@ -5,7 +5,7 @@ Action items on Tusar:
 ->OverLeaf 
 
 =============================
-Research topics discussed:
+2. Research topics discussed:
 AI in healthcare:
 
 1. Early detection of intestinal (colorectal) cancer is critical for preventing death  
@@ -16,3 +16,12 @@ AI in healthcare:
 3. Analyzing and detecting the original signal flow in paralyzed patients
 
 4. Analyzing and detecting high-energy nerve activity (epileptiform discharges) during epilepsy 
+
+===========================================
+3. Meeting status excel sheet to be received from Bunil sir to maintain punctuality , sincerity and on time task and work delivery.
+
+4. Tusar will create PhD artifacts repository in Github and MoM preparation
+
+5. Prof Tapan will share the KT how to download quality research materials
+
+6. Finalization of topics will be done in the next 15 days (3rd of March, 2026)
